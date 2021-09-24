@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## School Planner
 
-You can use the [editor on GitHub](https://github.com/corylowry12/schoolPlannerSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+An app, available on Android, and soon to be iOS, that you can use to calculate the difference between two time periods, but in decimal format.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Download Links
 
-### Markdown
+#iOS - Not available yet 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# How To Use
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/corylowry12/schoolPlannerSite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Add classes to keep track of them
+- Add assignments for the various classes
+- Add grades for each class to display a weighted average for that particular class
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [github repo](https://github.com/corylowry12/SchoolPlanner_Swift) and create an issue or post on the discussions tab.
